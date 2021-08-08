@@ -1,0 +1,11 @@
+smells.csv filter=lfs diff=lfs merge=lfs -text
+smiles.smi filter=lfs diff=lfs merge=lfs -text
+modelB.h5 filter=lfs diff=lfs merge=lfs -text
+PaDEL-Descriptor filter=lfs diff=lfs merge=lfs -text
+images filter=lfs diff=lfs merge=lfs -text
+modelA.h5 filter=lfs diff=lfs merge=lfs -text
+PaDEL-Descriptor.jar filter=lfs diff=lfs merge=lfs -text
+pre-processing.exe filter=lfs diff=lfs merge=lfs -text
+smiles2smell.exe filter=lfs diff=lfs merge=lfs -text
+data.csv filter=lfs diff=lfs merge=lfs -text
+features.csv filter=lfs diff=lfs merge=lfs -text
